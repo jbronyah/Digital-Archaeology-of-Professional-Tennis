@@ -1,0 +1,19 @@
+{
+  "files": {
+    "archive_slam_counts.csv": "2d2dc4a91ab5f7c95b154ef10e9f54cea3b8e680a985957e975ec8a70965a4c6",
+    "charting-m-matches.csv.gz": "29204dd39ffc7108b4b533b5d793989c273562d317496bf33384bb02b7618213",
+    "charting-m-points-2010s.csv.gz": "f0b8a84e4a1ca3aff30716b101c129572873a4c759276e57531f1d4f6a56daac",
+    "charting-m-points-2020s.csv.gz": "5d408606ef2717afdf9df8e0f3a38d96b56f0a7150d90ed65b05c14c5ddd2939",
+    "charting-m-points-to-2009.csv.gz": "01950b9ed31b41277a5fb416aa853ccb245b86a028ad9c012229dfa300124806",
+    "charting-m-stats-NetPoints.csv.gz": "7882e72ce342b7264d52a7a218e472628d6b50e6a055ecdf50e6f4ab629e3a06",
+    "charting-m-stats-Rally.csv.gz": "05fe26323acaf0dd9ced1ace551da01d8392703f6bbe428c526a5487c82277f6",
+    "charting-m-stats-SnV.csv.gz": "e856561395e20edec87d9064257d0911415ab0b706db31d6a08c4eacbf0fc084",
+    "charting-w-matches.csv.gz": "d444bca876981b3b2decb99dd6760fa8ad9b735c65516b5318efbe476fb4444a",
+    "charting-w-points-2010s.csv.gz": "749c11f7df58a23581930b5e1c0219d17bc7288f8b9e84e6abe4d46093548801",
+    "charting-w-points-2020s.csv.gz": "8f3027c1655cca77533be5ab9c180da4a378013ff0f1d7f54c84e5c184147c1d",
+    "charting-w-points-to-2009.csv.gz": "d681dc8cad20d477afc30d687abf8166aeeb6a0677dd4bc139af90cd6b67e302",
+    "charting-w-stats-NetPoints.csv.gz": "c2367864b2a6e593fd766c10406342bbe618b1a58381b2e487c9aa3e6391f0a1",
+    "charting-w-stats-Rally.csv.gz": "e7adac2f45146063dd1cc19705eca02a6eb5b824f63a6be965caa4c8cd0f7cf8",
+    "charting-w-stats-SnV.csv.gz": "a1b728e3bad9fb5334f8ad3bd66d5980cabc83b5ee2cefd7b9a55224097b6362"
+  }
+}

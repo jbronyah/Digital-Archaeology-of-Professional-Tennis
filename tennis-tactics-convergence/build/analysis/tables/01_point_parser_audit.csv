@@ -1,0 +1,7 @@
+file,input_points,decoded_points,repeated_variant_rows,conflicting_matches_excluded
+charting-m-points-2010s.csv,95169,94927,0,0
+charting-m-points-2020s.csv,169299,169052,0,0
+charting-m-points-to-2009.csv,78493,78313,0,0
+charting-w-points-2010s.csv,48425,48305,0,0
+charting-w-points-2020s.csv,88101,87980,0,0
+charting-w-points-to-2009.csv,19246,19208,20,2

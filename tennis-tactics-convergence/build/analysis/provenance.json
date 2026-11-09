@@ -1,0 +1,48 @@
+{
+  "seed": 20261108,
+  "bootstrap_replicates": 1000,
+  "python": "3.9.6",
+  "snapshot_manifest_sha256": "1470743bb88051c97c107044814ce1b35962b7b1cf72ec8276c8ae1998533000",
+  "inputs": [
+    {
+      "path": "build/sample/tables/q3_charted_coverage.csv",
+      "sha256": "4025491f488eac7f9e47e617934d1a8aa4fa5b7550cc836c09accc88122c43ef"
+    },
+    {
+      "path": "build/sample/tables/q3_match_metrics.csv",
+      "sha256": "27b51a47dede01a47fd607224a316817e1679cd777e2b8cf9fc213632c8c7e2e"
+    },
+    {
+      "path": "data/charting-m-matches.csv.gz",
+      "sha256": "29204dd39ffc7108b4b533b5d793989c273562d317496bf33384bb02b7618213"
+    },
+    {
+      "path": "data/charting-m-points-2010s.csv.gz",
+      "sha256": "f0b8a84e4a1ca3aff30716b101c129572873a4c759276e57531f1d4f6a56daac"
+    },
+    {
+      "path": "data/charting-m-points-2020s.csv.gz",
+      "sha256": "5d408606ef2717afdf9df8e0f3a38d96b56f0a7150d90ed65b05c14c5ddd2939"
+    },
+    {
+      "path": "data/charting-m-points-to-2009.csv.gz",
+      "sha256": "01950b9ed31b41277a5fb416aa853ccb245b86a028ad9c012229dfa300124806"
+    },
+    {
+      "path": "data/charting-w-matches.csv.gz",
+      "sha256": "d444bca876981b3b2decb99dd6760fa8ad9b735c65516b5318efbe476fb4444a"
+    },
+    {
+      "path": "data/charting-w-points-2010s.csv.gz",
+      "sha256": "749c11f7df58a23581930b5e1c0219d17bc7288f8b9e84e6abe4d46093548801"
+    },
+    {
+      "path": "data/charting-w-points-2020s.csv.gz",
+      "sha256": "8f3027c1655cca77533be5ab9c180da4a378013ff0f1d7f54c84e5c184147c1d"
+    },
+    {
+      "path": "data/charting-w-points-to-2009.csv.gz",
+      "sha256": "d681dc8cad20d477afc30d687abf8166aeeb6a0677dd4bc139af90cd6b67e302"
+    }
+  ]
+}

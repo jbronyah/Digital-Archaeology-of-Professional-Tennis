@@ -1,0 +1,252 @@
+tour,Tournament,era,role,timing,preceding_type,entries,wins,success_pct
+ATP,Australian Open,Early,Returner,Return (shot 2),Serve,330,179,54.24242424242424
+ATP,Australian Open,Early,Returner,Later (shot 4+),Drop shot,2,2,100.0
+ATP,Australian Open,Early,Returner,Later (shot 4+),Groundstroke,492,326,66.26016260162602
+ATP,Australian Open,Early,Returner,Later (shot 4+),Net shot,15,10,66.66666666666667
+ATP,Australian Open,Early,Server,Serve +1 (shot 3),Drop shot,1,0,0.0
+ATP,Australian Open,Early,Server,Serve +1 (shot 3),Groundstroke,721,500,69.34812760055479
+ATP,Australian Open,Early,Server,Serve +1 (shot 3),Other/unknown,2,2,100.0
+ATP,Australian Open,Early,Server,Later (shot 4+),Drop shot,3,2,66.66666666666667
+ATP,Australian Open,Early,Server,Later (shot 4+),Groundstroke,416,276,66.34615384615384
+ATP,Australian Open,Early,Server,Later (shot 4+),Lob,4,3,75.0
+ATP,Australian Open,Early,Server,Later (shot 4+),Net shot,4,2,50.0
+ATP,Australian Open,Late,Returner,Return (shot 2),Serve,307,196,63.843648208469055
+ATP,Australian Open,Late,Returner,Later (shot 4+),Drop shot,26,14,53.84615384615385
+ATP,Australian Open,Late,Returner,Later (shot 4+),Groundstroke,2187,1434,65.56927297668038
+ATP,Australian Open,Late,Returner,Later (shot 4+),Lob,7,3,42.857142857142854
+ATP,Australian Open,Late,Returner,Later (shot 4+),Net shot,44,32,72.72727272727273
+ATP,Australian Open,Late,Returner,Later (shot 4+),Other/unknown,3,2,66.66666666666667
+ATP,Australian Open,Late,Server,Serve +1 (shot 3),Groundstroke,4236,3002,70.86874409820585
+ATP,Australian Open,Late,Server,Serve +1 (shot 3),Lob,15,9,60.0
+ATP,Australian Open,Late,Server,Serve +1 (shot 3),Other/unknown,2,0,0.0
+ATP,Australian Open,Late,Server,Later (shot 4+),Drop shot,14,10,71.42857142857143
+ATP,Australian Open,Late,Server,Later (shot 4+),Groundstroke,2122,1447,68.1903864278982
+ATP,Australian Open,Late,Server,Later (shot 4+),Lob,18,13,72.22222222222223
+ATP,Australian Open,Late,Server,Later (shot 4+),Net shot,18,16,88.88888888888889
+ATP,Australian Open,Late,Server,Later (shot 4+),Other/unknown,4,3,75.0
+ATP,Australian Open,Middle,Returner,Return (shot 2),Serve,239,138,57.74058577405858
+ATP,Australian Open,Middle,Returner,Later (shot 4+),Drop shot,10,8,80.0
+ATP,Australian Open,Middle,Returner,Later (shot 4+),Groundstroke,905,627,69.2817679558011
+ATP,Australian Open,Middle,Returner,Later (shot 4+),Lob,3,3,100.0
+ATP,Australian Open,Middle,Returner,Later (shot 4+),Net shot,25,17,68.0
+ATP,Australian Open,Middle,Server,Serve +1 (shot 3),Drop shot,2,2,100.0
+ATP,Australian Open,Middle,Server,Serve +1 (shot 3),Groundstroke,1457,977,67.05559368565545
+ATP,Australian Open,Middle,Server,Serve +1 (shot 3),Lob,1,0,0.0
+ATP,Australian Open,Middle,Server,Later (shot 4+),Drop shot,7,3,42.857142857142854
+ATP,Australian Open,Middle,Server,Later (shot 4+),Groundstroke,839,575,68.53396901072706
+ATP,Australian Open,Middle,Server,Later (shot 4+),Lob,2,2,100.0
+ATP,Australian Open,Middle,Server,Later (shot 4+),Net shot,9,4,44.44444444444444
+ATP,Australian Open,Middle,Server,Later (shot 4+),Other/unknown,1,1,100.0
+ATP,Roland Garros,Early,Returner,Return (shot 2),Serve,136,80,58.8235294117647
+ATP,Roland Garros,Early,Returner,Later (shot 4+),Drop shot,1,0,0.0
+ATP,Roland Garros,Early,Returner,Later (shot 4+),Groundstroke,403,261,64.76426799007444
+ATP,Roland Garros,Early,Returner,Later (shot 4+),Net shot,6,3,50.0
+ATP,Roland Garros,Early,Server,Serve +1 (shot 3),Groundstroke,447,315,70.46979865771812
+ATP,Roland Garros,Early,Server,Serve +1 (shot 3),Other/unknown,1,0,0.0
+ATP,Roland Garros,Early,Server,Later (shot 4+),Drop shot,5,2,40.0
+ATP,Roland Garros,Early,Server,Later (shot 4+),Groundstroke,329,233,70.82066869300913
+ATP,Roland Garros,Early,Server,Later (shot 4+),Lob,4,4,100.0
+ATP,Roland Garros,Early,Server,Later (shot 4+),Net shot,2,1,50.0
+ATP,Roland Garros,Late,Returner,Return (shot 2),Serve,141,83,58.86524822695036
+ATP,Roland Garros,Late,Returner,Later (shot 4+),Drop shot,15,7,46.666666666666664
+ATP,Roland Garros,Late,Returner,Later (shot 4+),Groundstroke,1347,918,68.15144766146993
+ATP,Roland Garros,Late,Returner,Later (shot 4+),Lob,13,10,76.92307692307692
+ATP,Roland Garros,Late,Returner,Later (shot 4+),Net shot,22,14,63.63636363636363
+ATP,Roland Garros,Late,Returner,Later (shot 4+),Other/unknown,1,0,0.0
+ATP,Roland Garros,Late,Server,Serve +1 (shot 3),Groundstroke,2539,1823,71.79992122883024
+ATP,Roland Garros,Late,Server,Serve +1 (shot 3),Lob,27,22,81.48148148148148
+ATP,Roland Garros,Late,Server,Serve +1 (shot 3),Net shot,1,0,0.0
+ATP,Roland Garros,Late,Server,Serve +1 (shot 3),Other/unknown,25,19,76.0
+ATP,Roland Garros,Late,Server,Later (shot 4+),Drop shot,13,5,38.46153846153846
+ATP,Roland Garros,Late,Server,Later (shot 4+),Groundstroke,1608,1148,71.39303482587064
+ATP,Roland Garros,Late,Server,Later (shot 4+),Lob,25,19,76.0
+ATP,Roland Garros,Late,Server,Later (shot 4+),Net shot,12,7,58.333333333333336
+ATP,Roland Garros,Late,Server,Later (shot 4+),Other/unknown,3,0,0.0
+ATP,Roland Garros,Middle,Returner,Return (shot 2),Serve,27,18,66.66666666666667
+ATP,Roland Garros,Middle,Returner,Later (shot 4+),Drop shot,4,4,100.0
+ATP,Roland Garros,Middle,Returner,Later (shot 4+),Groundstroke,299,213,71.23745819397993
+ATP,Roland Garros,Middle,Returner,Later (shot 4+),Net shot,3,3,100.0
+ATP,Roland Garros,Middle,Server,Serve +1 (shot 3),Groundstroke,582,400,68.72852233676976
+ATP,Roland Garros,Middle,Server,Serve +1 (shot 3),Other/unknown,1,1,100.0
+ATP,Roland Garros,Middle,Server,Later (shot 4+),Drop shot,3,2,66.66666666666667
+ATP,Roland Garros,Middle,Server,Later (shot 4+),Groundstroke,332,225,67.7710843373494
+ATP,Roland Garros,Middle,Server,Later (shot 4+),Lob,2,2,100.0
+ATP,Roland Garros,Middle,Server,Later (shot 4+),Net shot,2,1,50.0
+ATP,US Open,Early,Returner,Return (shot 2),Serve,345,191,55.36231884057971
+ATP,US Open,Early,Returner,Later (shot 4+),Groundstroke,392,244,62.244897959183675
+ATP,US Open,Early,Returner,Later (shot 4+),Net shot,26,21,80.76923076923077
+ATP,US Open,Early,Server,Serve +1 (shot 3),Drop shot,1,1,100.0
+ATP,US Open,Early,Server,Serve +1 (shot 3),Groundstroke,586,393,67.06484641638225
+ATP,US Open,Early,Server,Later (shot 4+),Drop shot,2,1,50.0
+ATP,US Open,Early,Server,Later (shot 4+),Groundstroke,308,211,68.50649350649351
+ATP,US Open,Early,Server,Later (shot 4+),Lob,2,1,50.0
+ATP,US Open,Early,Server,Later (shot 4+),Net shot,1,0,0.0
+ATP,US Open,Late,Returner,Return (shot 2),Serve,302,165,54.63576158940398
+ATP,US Open,Late,Returner,Later (shot 4+),Drop shot,20,17,85.0
+ATP,US Open,Late,Returner,Later (shot 4+),Groundstroke,1911,1256,65.72475143903715
+ATP,US Open,Late,Returner,Later (shot 4+),Lob,3,2,66.66666666666667
+ATP,US Open,Late,Returner,Later (shot 4+),Net shot,48,36,75.0
+ATP,US Open,Late,Returner,Later (shot 4+),Other/unknown,2,2,100.0
+ATP,US Open,Late,Server,Serve +1 (shot 3),Drop shot,1,0,0.0
+ATP,US Open,Late,Server,Serve +1 (shot 3),Groundstroke,3432,2450,71.38694638694639
+ATP,US Open,Late,Server,Serve +1 (shot 3),Lob,11,7,63.63636363636363
+ATP,US Open,Late,Server,Serve +1 (shot 3),Other/unknown,5,5,100.0
+ATP,US Open,Late,Server,Later (shot 4+),Drop shot,16,14,87.5
+ATP,US Open,Late,Server,Later (shot 4+),Groundstroke,1787,1185,66.31225517627308
+ATP,US Open,Late,Server,Later (shot 4+),Lob,11,11,100.0
+ATP,US Open,Late,Server,Later (shot 4+),Net shot,13,10,76.92307692307692
+ATP,US Open,Middle,Returner,Return (shot 2),Serve,132,79,59.84848484848485
+ATP,US Open,Middle,Returner,Later (shot 4+),Drop shot,13,10,76.92307692307692
+ATP,US Open,Middle,Returner,Later (shot 4+),Groundstroke,654,432,66.05504587155963
+ATP,US Open,Middle,Returner,Later (shot 4+),Lob,2,1,50.0
+ATP,US Open,Middle,Returner,Later (shot 4+),Net shot,18,9,50.0
+ATP,US Open,Middle,Returner,Later (shot 4+),Other/unknown,1,1,100.0
+ATP,US Open,Middle,Server,Serve +1 (shot 3),Groundstroke,1219,796,65.2994257588187
+ATP,US Open,Middle,Server,Serve +1 (shot 3),Lob,3,1,33.333333333333336
+ATP,US Open,Middle,Server,Later (shot 4+),Drop shot,3,3,100.0
+ATP,US Open,Middle,Server,Later (shot 4+),Groundstroke,644,434,67.3913043478261
+ATP,US Open,Middle,Server,Later (shot 4+),Lob,2,2,100.0
+ATP,US Open,Middle,Server,Later (shot 4+),Net shot,7,5,71.42857142857143
+ATP,Wimbledon,Early,Returner,Return (shot 2),Serve,156,79,50.64102564102564
+ATP,Wimbledon,Early,Returner,Later (shot 4+),Drop shot,1,1,100.0
+ATP,Wimbledon,Early,Returner,Later (shot 4+),Groundstroke,241,159,65.97510373443983
+ATP,Wimbledon,Early,Returner,Later (shot 4+),Lob,1,0,0.0
+ATP,Wimbledon,Early,Returner,Later (shot 4+),Net shot,42,32,76.19047619047619
+ATP,Wimbledon,Early,Server,Serve +1 (shot 3),Groundstroke,351,222,63.24786324786325
+ATP,Wimbledon,Early,Server,Later (shot 4+),Groundstroke,163,106,65.03067484662577
+ATP,Wimbledon,Early,Server,Later (shot 4+),Lob,2,1,50.0
+ATP,Wimbledon,Early,Server,Later (shot 4+),Net shot,3,1,33.333333333333336
+ATP,Wimbledon,Late,Returner,Return (shot 2),Serve,242,145,59.917355371900825
+ATP,Wimbledon,Late,Returner,Later (shot 4+),Drop shot,30,18,60.0
+ATP,Wimbledon,Late,Returner,Later (shot 4+),Groundstroke,1579,1071,67.82773907536415
+ATP,Wimbledon,Late,Returner,Later (shot 4+),Lob,4,3,75.0
+ATP,Wimbledon,Late,Returner,Later (shot 4+),Net shot,51,39,76.47058823529412
+ATP,Wimbledon,Late,Returner,Later (shot 4+),Other/unknown,2,1,50.0
+ATP,Wimbledon,Late,Server,Serve +1 (shot 3),Drop shot,1,1,100.0
+ATP,Wimbledon,Late,Server,Serve +1 (shot 3),Groundstroke,3158,2284,72.32425585813806
+ATP,Wimbledon,Late,Server,Serve +1 (shot 3),Lob,9,6,66.66666666666667
+ATP,Wimbledon,Late,Server,Serve +1 (shot 3),Other/unknown,2,1,50.0
+ATP,Wimbledon,Late,Server,Later (shot 4+),Drop shot,11,8,72.72727272727273
+ATP,Wimbledon,Late,Server,Later (shot 4+),Groundstroke,1344,934,69.49404761904762
+ATP,Wimbledon,Late,Server,Later (shot 4+),Lob,7,5,71.42857142857143
+ATP,Wimbledon,Late,Server,Later (shot 4+),Net shot,12,7,58.333333333333336
+ATP,Wimbledon,Late,Server,Later (shot 4+),Other/unknown,2,0,0.0
+ATP,Wimbledon,Middle,Returner,Return (shot 2),Serve,135,73,54.074074074074076
+ATP,Wimbledon,Middle,Returner,Later (shot 4+),Drop shot,2,1,50.0
+ATP,Wimbledon,Middle,Returner,Later (shot 4+),Groundstroke,611,390,63.829787234042556
+ATP,Wimbledon,Middle,Returner,Later (shot 4+),Net shot,41,23,56.09756097560975
+ATP,Wimbledon,Middle,Server,Serve +1 (shot 3),Groundstroke,1253,890,71.0295291300878
+ATP,Wimbledon,Middle,Server,Serve +1 (shot 3),Lob,3,1,33.333333333333336
+ATP,Wimbledon,Middle,Server,Serve +1 (shot 3),Other/unknown,1,0,0.0
+ATP,Wimbledon,Middle,Server,Later (shot 4+),Drop shot,4,1,25.0
+ATP,Wimbledon,Middle,Server,Later (shot 4+),Groundstroke,600,433,72.16666666666667
+ATP,Wimbledon,Middle,Server,Later (shot 4+),Lob,1,1,100.0
+ATP,Wimbledon,Middle,Server,Later (shot 4+),Net shot,6,5,83.33333333333333
+WTA,Australian Open,Early,Returner,Return (shot 2),Serve,22,16,72.72727272727273
+WTA,Australian Open,Early,Returner,Later (shot 4+),Groundstroke,112,77,68.75
+WTA,Australian Open,Early,Server,Serve +1 (shot 3),Groundstroke,112,75,66.96428571428571
+WTA,Australian Open,Early,Server,Later (shot 4+),Groundstroke,88,57,64.77272727272727
+WTA,Australian Open,Early,Server,Later (shot 4+),Net shot,3,3,100.0
+WTA,Australian Open,Late,Returner,Return (shot 2),Serve,112,79,70.53571428571429
+WTA,Australian Open,Late,Returner,Later (shot 4+),Drop shot,7,6,85.71428571428571
+WTA,Australian Open,Late,Returner,Later (shot 4+),Groundstroke,920,593,64.45652173913044
+WTA,Australian Open,Late,Returner,Later (shot 4+),Lob,18,8,44.44444444444444
+WTA,Australian Open,Late,Returner,Later (shot 4+),Net shot,16,10,62.5
+WTA,Australian Open,Late,Server,Serve +1 (shot 3),Groundstroke,1089,741,68.04407713498622
+WTA,Australian Open,Late,Server,Serve +1 (shot 3),Lob,6,4,66.66666666666667
+WTA,Australian Open,Late,Server,Later (shot 4+),Drop shot,8,3,37.5
+WTA,Australian Open,Late,Server,Later (shot 4+),Groundstroke,785,481,61.27388535031847
+WTA,Australian Open,Late,Server,Later (shot 4+),Lob,24,12,50.0
+WTA,Australian Open,Late,Server,Later (shot 4+),Net shot,6,4,66.66666666666667
+WTA,Australian Open,Middle,Returner,Return (shot 2),Serve,53,31,58.490566037735846
+WTA,Australian Open,Middle,Returner,Later (shot 4+),Drop shot,1,1,100.0
+WTA,Australian Open,Middle,Returner,Later (shot 4+),Groundstroke,262,161,61.45038167938932
+WTA,Australian Open,Middle,Returner,Later (shot 4+),Lob,1,1,100.0
+WTA,Australian Open,Middle,Returner,Later (shot 4+),Net shot,9,5,55.55555555555556
+WTA,Australian Open,Middle,Server,Serve +1 (shot 3),Groundstroke,288,175,60.763888888888886
+WTA,Australian Open,Middle,Server,Later (shot 4+),Groundstroke,217,142,65.43778801843318
+WTA,Australian Open,Middle,Server,Later (shot 4+),Lob,2,2,100.0
+WTA,Australian Open,Middle,Server,Later (shot 4+),Net shot,2,1,50.0
+WTA,Australian Open,Middle,Server,Later (shot 4+),Other/unknown,1,1,100.0
+WTA,Roland Garros,Early,Returner,Return (shot 2),Serve,24,18,75.0
+WTA,Roland Garros,Early,Returner,Later (shot 4+),Drop shot,4,2,50.0
+WTA,Roland Garros,Early,Returner,Later (shot 4+),Groundstroke,84,54,64.28571428571429
+WTA,Roland Garros,Early,Server,Serve +1 (shot 3),Groundstroke,60,47,78.33333333333333
+WTA,Roland Garros,Early,Server,Later (shot 4+),Drop shot,1,0,0.0
+WTA,Roland Garros,Early,Server,Later (shot 4+),Groundstroke,65,50,76.92307692307692
+WTA,Roland Garros,Early,Server,Later (shot 4+),Net shot,1,1,100.0
+WTA,Roland Garros,Late,Returner,Return (shot 2),Serve,62,43,69.35483870967742
+WTA,Roland Garros,Late,Returner,Later (shot 4+),Drop shot,4,3,75.0
+WTA,Roland Garros,Late,Returner,Later (shot 4+),Groundstroke,583,363,62.264150943396224
+WTA,Roland Garros,Late,Returner,Later (shot 4+),Lob,22,15,68.18181818181819
+WTA,Roland Garros,Late,Returner,Later (shot 4+),Net shot,8,8,100.0
+WTA,Roland Garros,Late,Server,Serve +1 (shot 3),Groundstroke,532,328,61.65413533834587
+WTA,Roland Garros,Late,Server,Serve +1 (shot 3),Lob,5,1,20.0
+WTA,Roland Garros,Late,Server,Serve +1 (shot 3),Other/unknown,2,2,100.0
+WTA,Roland Garros,Late,Server,Later (shot 4+),Drop shot,8,4,50.0
+WTA,Roland Garros,Late,Server,Later (shot 4+),Groundstroke,549,352,64.11657559198542
+WTA,Roland Garros,Late,Server,Later (shot 4+),Lob,24,21,87.5
+WTA,Roland Garros,Middle,Returner,Return (shot 2),Serve,18,13,72.22222222222223
+WTA,Roland Garros,Middle,Returner,Later (shot 4+),Drop shot,1,1,100.0
+WTA,Roland Garros,Middle,Returner,Later (shot 4+),Groundstroke,98,63,64.28571428571429
+WTA,Roland Garros,Middle,Returner,Later (shot 4+),Lob,1,1,100.0
+WTA,Roland Garros,Middle,Returner,Later (shot 4+),Net shot,3,3,100.0
+WTA,Roland Garros,Middle,Server,Serve +1 (shot 3),Drop shot,1,1,100.0
+WTA,Roland Garros,Middle,Server,Serve +1 (shot 3),Groundstroke,94,55,58.51063829787234
+WTA,Roland Garros,Middle,Server,Serve +1 (shot 3),Lob,1,0,0.0
+WTA,Roland Garros,Middle,Server,Later (shot 4+),Groundstroke,97,59,60.824742268041234
+WTA,Roland Garros,Middle,Server,Later (shot 4+),Lob,1,1,100.0
+WTA,Roland Garros,Middle,Server,Later (shot 4+),Net shot,1,0,0.0
+WTA,US Open,Early,Returner,Return (shot 2),Serve,28,17,60.714285714285715
+WTA,US Open,Early,Returner,Later (shot 4+),Drop shot,3,1,33.333333333333336
+WTA,US Open,Early,Returner,Later (shot 4+),Groundstroke,61,43,70.49180327868852
+WTA,US Open,Early,Returner,Later (shot 4+),Net shot,2,2,100.0
+WTA,US Open,Early,Server,Serve +1 (shot 3),Groundstroke,62,42,67.74193548387096
+WTA,US Open,Early,Server,Later (shot 4+),Drop shot,1,1,100.0
+WTA,US Open,Early,Server,Later (shot 4+),Groundstroke,75,45,60.0
+WTA,US Open,Late,Returner,Return (shot 2),Serve,163,109,66.87116564417178
+WTA,US Open,Late,Returner,Later (shot 4+),Drop shot,14,6,42.857142857142854
+WTA,US Open,Late,Returner,Later (shot 4+),Groundstroke,857,531,61.96032672112019
+WTA,US Open,Late,Returner,Later (shot 4+),Lob,15,12,80.0
+WTA,US Open,Late,Returner,Later (shot 4+),Net shot,9,3,33.333333333333336
+WTA,US Open,Late,Server,Serve +1 (shot 3),Groundstroke,1060,701,66.13207547169812
+WTA,US Open,Late,Server,Serve +1 (shot 3),Lob,5,4,80.0
+WTA,US Open,Late,Server,Serve +1 (shot 3),Other/unknown,2,1,50.0
+WTA,US Open,Late,Server,Later (shot 4+),Drop shot,12,5,41.666666666666664
+WTA,US Open,Late,Server,Later (shot 4+),Groundstroke,638,422,66.14420062695925
+WTA,US Open,Late,Server,Later (shot 4+),Lob,13,10,76.92307692307692
+WTA,US Open,Late,Server,Later (shot 4+),Net shot,5,3,60.0
+WTA,US Open,Late,Server,Later (shot 4+),Other/unknown,1,1,100.0
+WTA,US Open,Middle,Returner,Return (shot 2),Serve,34,28,82.3529411764706
+WTA,US Open,Middle,Returner,Later (shot 4+),Drop shot,3,2,66.66666666666667
+WTA,US Open,Middle,Returner,Later (shot 4+),Groundstroke,182,121,66.48351648351648
+WTA,US Open,Middle,Returner,Later (shot 4+),Net shot,5,4,80.0
+WTA,US Open,Middle,Server,Serve +1 (shot 3),Groundstroke,182,123,67.58241758241758
+WTA,US Open,Middle,Server,Serve +1 (shot 3),Lob,1,1,100.0
+WTA,US Open,Middle,Server,Later (shot 4+),Drop shot,3,2,66.66666666666667
+WTA,US Open,Middle,Server,Later (shot 4+),Groundstroke,128,88,68.75
+WTA,US Open,Middle,Server,Later (shot 4+),Net shot,2,0,0.0
+WTA,Wimbledon,Early,Returner,Return (shot 2),Serve,48,36,75.0
+WTA,Wimbledon,Early,Returner,Later (shot 4+),Groundstroke,144,97,67.36111111111111
+WTA,Wimbledon,Early,Server,Serve +1 (shot 3),Groundstroke,178,130,73.03370786516854
+WTA,Wimbledon,Early,Server,Later (shot 4+),Groundstroke,90,62,68.88888888888889
+WTA,Wimbledon,Late,Returner,Return (shot 2),Serve,98,69,70.40816326530613
+WTA,Wimbledon,Late,Returner,Later (shot 4+),Drop shot,15,6,40.0
+WTA,Wimbledon,Late,Returner,Later (shot 4+),Groundstroke,738,487,65.98915989159892
+WTA,Wimbledon,Late,Returner,Later (shot 4+),Lob,14,9,64.28571428571429
+WTA,Wimbledon,Late,Returner,Later (shot 4+),Net shot,13,8,61.53846153846154
+WTA,Wimbledon,Late,Returner,Later (shot 4+),Other/unknown,1,1,100.0
+WTA,Wimbledon,Late,Server,Serve +1 (shot 3),Groundstroke,1094,727,66.45338208409507
+WTA,Wimbledon,Late,Server,Serve +1 (shot 3),Lob,8,8,100.0
+WTA,Wimbledon,Late,Server,Later (shot 4+),Drop shot,13,8,61.53846153846154
+WTA,Wimbledon,Late,Server,Later (shot 4+),Groundstroke,582,374,64.26116838487972
+WTA,Wimbledon,Late,Server,Later (shot 4+),Lob,11,8,72.72727272727273
+WTA,Wimbledon,Late,Server,Later (shot 4+),Net shot,5,2,40.0
+WTA,Wimbledon,Middle,Returner,Return (shot 2),Serve,54,36,66.66666666666667
+WTA,Wimbledon,Middle,Returner,Later (shot 4+),Groundstroke,136,80,58.8235294117647
+WTA,Wimbledon,Middle,Returner,Later (shot 4+),Net shot,2,2,100.0
+WTA,Wimbledon,Middle,Returner,Later (shot 4+),Other/unknown,1,0,0.0
+WTA,Wimbledon,Middle,Server,Serve +1 (shot 3),Groundstroke,185,128,69.1891891891892
+WTA,Wimbledon,Middle,Server,Later (shot 4+),Groundstroke,76,53,69.73684210526316
+WTA,Wimbledon,Middle,Server,Later (shot 4+),Lob,2,0,0.0
+WTA,Wimbledon,Middle,Server,Later (shot 4+),Net shot,1,1,100.0
